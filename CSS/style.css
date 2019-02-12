@@ -1,0 +1,54 @@
+.brain{
+background-image:;
+text-align: center;
+font-family: 'ZCOOL KuaiLe', cursive;
+color: #1A191A;
+}
+#mouth{
+text-align: center;
+font-family: 'Roboto Mono', monospace;
+}
+body{
+ background-color: #CACCCF;
+}
+
+.ears{
+text-align: center;
+font-family: 'Roboto Mono', monospace;
+}
+ .head{
+font-family: 'Lobster', cursive;
+text-align: center;
+color: #5F6A6A;
+}
+.hair{
+text-align: center;
+font-family: 'Permanent Marker', cursive;
+color: #424949;
+}
+.eye{
+text-align: center;
+font-family: 'Bangers', cursive;
+color: #34495E;
+}
+.neck{
+text-align: center;
+font-family: 'Sigmar One', cursive;
+color: #1B2631;
+}
+.chest{
+text-align:center;
+color: #212F3D;
+font-family: 'Covered By Your Grace', cursive;
+}
+@media screen and width (min-width:480px) {
+body {
+  background-color: #797D7F;
+}
+}
+@media screen and (min-width: 490px) and (max-width: 768px) {
+    body {
+        background-color: #797D7F;
+        color: #212F3D;
+    }
+}
