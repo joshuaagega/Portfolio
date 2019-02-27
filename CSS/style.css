@@ -9,13 +9,7 @@ text-align: center;
 font-family: 'Roboto Mono', monospace;
 }
 body{
- background-image: url("../backgroundimage.jpg");
- background-repeat: no-repeat;
- background-position: center;
- margin-left: 200px;
- margin-right: 200px;
- margin-bottom: 200px;
- height: 200px;
+ background-color: #01778A;
 }
 
 .ears{
