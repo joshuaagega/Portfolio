@@ -53,6 +53,11 @@ border-radius: 60%;
 
 }
 
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
 @media screen and width (min-width:480px) {
 body {
   background-color: #1A191A;
