@@ -1,68 +1,14 @@
-.brain{
-background-image:;
-text-align: center;
-font-family: 'ZCOOL KuaiLe', cursive;
-color: #1A191A;
-}
-#mouth{
-text-align: center;
-font-family: 'Roboto Mono', monospace;
-}
-body{
- background-image: url(../backgroun2.jpg);
- background-size: cover;
- background-attachment: fixed;
- background-repeat: no-repeat;
- background-position: center center;
-}
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { ... }
 
-.ears{
-text-align: center;
-font-family: 'Roboto Mono', monospace;
-}
- .head{
-font-family: 'Lobster', cursive;
-text-align: center;
-color: #1A191A;
-}
-.hair{
-text-align: center;
-font-family: 'Permanent Marker', cursive;
-color: #1A191A;
-}
-.eye{
-text-align: center;
-font-family: 'Bangers', cursive;
-color: #1A191A;
-}
-.neck{
-text-align: center;
-font-family: 'Sigmar One', cursive;
-color: #1A191A;
-}
-.chest{
-text-align:center;
-color: #1A191A;
-font-family: 'Covered By Your Grace', cursive;
-}
-img {
-border-radius: 60%;
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
 
-}
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
 
-h1 {
-  color: white;
-  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
-}
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
 
-@media screen and width (min-width:480px) {
-body {
-  background-color: #1A191A;
-}
-}
-@media screen and (min-width: 490px) and (max-width: 768px) {
-    body {
-        background-color: #1A191A;
-        color: #1A191A;
-    }
-}
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
