@@ -1,3 +1,42 @@
+.view {
+    background: url("../back1.jpg")no-repeat center center;
+    background-size: cover;
+}
+
+h2{
+color: #CDCDCD;
+font-family: 'Courgette', cursive;
+text-align: left;
+}
+h5{
+color: #CDCDCD;
+text-align:left;
+font-family: 'Courgette', cursive;
+
+}
+
+
+
+
+
+
+@media (min-width: 768px) {
+    .view {
+        overflow: visible;
+        margin-top: -56px;
+    }
+}
+.navbar {
+    z-index: 1;
+}
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
 // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) { ... }
 
