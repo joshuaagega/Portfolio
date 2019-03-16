@@ -21,6 +21,10 @@ text-align:left;
 font-family: 'Courgette', cursive;
 }
 
+#text{
+  font-family: 'Courgette', cursive;
+
+}
 
 @media (min-width: 768px) {
     .view {
