@@ -7,23 +7,19 @@ h2{
 color: #CDCDCD;
 font-family: 'Courgette', cursive;
 text-align: left;
+
 }
 h5{
 color: #CDCDCD;
 text-align:left;
 font-family: 'Courgette', cursive;
-
 }
+
 h6{
 color: #CDCDCD;
 text-align:left;
 font-family: 'Courgette', cursive;
-
 }
-
-
-
-
 
 
 @media (min-width: 768px) {
